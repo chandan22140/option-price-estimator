@@ -1,21 +1,3 @@
-### ✅ Project Name: `option-price-estimator`
-
----
-
-### 📁 Files
-
-```
-option-price-estimator/
-├── main.py
-├── README.md
-└── requirements.txt
-```
-
----
-
-### 📄 `README.md`
-
-```markdown
 # Option Price Estimator
 
 This project predicts the price of European call and put options using a combination of the Black-Scholes formula and a linear regression adjustment model.
