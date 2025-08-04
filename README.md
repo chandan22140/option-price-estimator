@@ -86,14 +86,3 @@ scipy
 * `main.py`: All-in-one Python script (input reader, Black-Scholes, prediction, and output).
 * `requirements.txt`: Dependencies.
 
-````
-
----
-
-### 📄 `requirements.txt`
-
-```txt
-pandas
-numpy
-scipy
-```
